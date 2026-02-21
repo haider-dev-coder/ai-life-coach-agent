@@ -1,0 +1,5 @@
+GEMINI_API_KEY = "AIzaSyAcYsno-6IPniuuXFGlMbuYb1xaQXffUsU"
+MODEL_NAME = "gemini-2.5-flash"
+MEMORY_KEY = "habit_memory"
+GOOGLE_CREDENTIALS_FILE = "credentials.json"
+CALENDAR_TOKEN_FILE = "token.json"
