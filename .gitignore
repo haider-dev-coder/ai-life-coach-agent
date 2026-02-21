@@ -1,0 +1,30 @@
+# Virtual Environment (VERY IMPORTANT)
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment & Secrets
+.env
+credentials.json
+
+# Output & memory data (user data files)
+output/
+user_memory/*.json
+
+# Streamlit & cache
+.streamlit/
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
+
+# Logs
+*.log
